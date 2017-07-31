@@ -1,0 +1,11 @@
+{
+  "name": "sass-test-2",
+  "version": "1.0.0",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "matchdep": "^1.0.1"
+  }
+}
